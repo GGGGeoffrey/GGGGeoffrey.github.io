@@ -1,12 +1,12 @@
 body {
-    background-color: gray;
-    color: black;
-    font-family: Helvetica;
+    background-color: rgb(92, 69, 196);
+    color: rgb(84, 180, 236);
+    font-family: Apple Chancery;
     font-size: 14px;
     }
     .reverse {
-    background-color: black !important;
-    color: white;
+    background-color: rgb(34, 233, 110) !important;
+    color: rgb(58, 218, 218);
     }
     p {
     padding: 20px;
